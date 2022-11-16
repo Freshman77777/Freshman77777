@@ -20,13 +20,13 @@
 
 #### Tools
 <p>
-  <img src="https://img.shields.io/badge/Eclipse%20IDE-navy.svg?style=for-the-badge&logo=Eclipse%20IDE&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse%20IDE&logoColor=white"/>
   
   
-  <img src="https://img.shields.io/badge/GitHub-black.svg?style=for-the-badge&logo=GitHub&logoColor=white"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/>
   
   
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white">
 
   </p>
 
