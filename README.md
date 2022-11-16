@@ -24,6 +24,11 @@
   
   
   <img src="https://img.shields.io/badge/GitHub-black.svg?style=for-the-badge&logo=GitHub&logoColor=white"/>
+  
+  
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=&logo=MySQL&logoColor=white">
+
   </p>
+
 </div> 
 
