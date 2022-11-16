@@ -15,7 +15,7 @@
 #### Platforms & Language
 
 <p>
-  <img src="https://img.shields.io/badge/Java-EC1C24?style=flat-square&logo=Java&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Java-31A8FF?style=flat-square&logo=Java&logoColor=white"/>
 </p>
 
 #### Tools
